@@ -1,5 +1,17 @@
-Here you can say lots of fun things about your site.
+---
+layout: landingpage
+title: M/S Vega
+header_type: hero
+header_img: /assets/img/vega_vanha.jpeg
+---
 
-Maybe say a some things about yourself.
+Vega on n. 100-vuotias teräsrunkoinen hinaaja, jonka kotisatama on Helsinki.
 
-Or maybe what you plan to blog about.
+Olemme kaksihenkinen miehistö, jonka tavoitteena on hiljalleen rakentaa ja kunnostaa alus huvikäyttöön.
+Tekeminen on tavoitteellista, mutta kummallakin meillä on perhe ja pienet lapset hoidettavana, joten aikaa
+rakentamiselle on varsin rajallisesti.
+
+Pyrimme säilyttämään mahdollisimman hyvin hinaajan ulkoasun, kunnioittaaksemme alkuperäistä. Tämä alus on
+raskaimmat työnsä tehnyt, joten nyt on aika ottaa kevyemmin ja kelluttaa vapaa-ajan viettäjiä.
+
+**Tutustu [blogiin](/blog), josta varsinainen sisältö ja tarinat löytyvät!**
