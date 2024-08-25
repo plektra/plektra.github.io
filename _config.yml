@@ -22,6 +22,8 @@ github_username: "plektra"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "chulapa-jekyll"
+github: [metadata]
+repository: dieghernan/chulapa-jekyll-101
 
 rss: rss
 

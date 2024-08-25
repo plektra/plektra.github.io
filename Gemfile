@@ -37,3 +37,5 @@ gem "webrick", "~> 1.8"
 gem "chulapa-jekyll", "~> 1.1"
 
 gem "jekyll-paginate", "~> 1.1"
+
+gem "jekyll-github-metadata"
