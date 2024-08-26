@@ -79,4 +79,4 @@ paginate: 10
 
 comments:
   provider: disqus
-  disqus-shortname: hinaaja
+  disqus_shortname: hinaaja
