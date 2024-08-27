@@ -56,7 +56,7 @@ defaults:
           url: /
         - label: Blogi
           url: /blog
-      comments: true
+      show_comments: true
 
 chulapa-skin:
   skin: graymor
@@ -79,4 +79,4 @@ paginate: 10
 
 comments:
   provider: cusdis
-  cusdis_app_id: 4f5fc1de-9ebd-47bf-a6d9-1fea07785471
+  cusdis_app_id: "4f5fc1de-9ebd-47bf-a6d9-1fea07785471"
