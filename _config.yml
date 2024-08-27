@@ -5,6 +5,7 @@ description: "Teräshinaajan kunnostusta."
 locale: fi-FI
 header_type: image
 header_img: /assets/img/vega_vanha.jpeg
+og_image: /assets/img/og_image.jpeg
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -57,12 +58,18 @@ defaults:
         - label: Blogi
           url: /blog
       show_comments: true
+      show_sociallinks: true
 
 chulapa-skin:
   skin: graymor
 
 footer:
   copyright: "&copy; 2024 Lari Mahlio"
+  links:
+    - url: /feed.xml
+      icon: fa fa-rss
+      label: RSS
+
 
 navbar:
   style: dual
