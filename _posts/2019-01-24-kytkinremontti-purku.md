@@ -26,23 +26,3 @@ Vaihteen sydämenmuotoinen pääty irroitettiin, jotta kytkinpakkoihin päästii
 Tässä vaiheessa ongelman aiheuttaja alkoi hiljalleen valjeta. Yllä vasemmalla on paapuurin puoleinen akseli, oikealla styyrpuurin puoleinen. Edellä tulikin todettua, paapuurin puoleinen kytkin hoitaa tällä hetkellä eteenpäin-vaihteen virkaa. Kuten kuvasta näkyy, akselin rihlat ovat todella kuluneet, ei ihme että kytkin ei palaudu kokonaan irti vaan osa kytkinlevyistä jää laahaamaan kun ne jäävät jumiin rihlojen uriin. Akselissa sekä kytkimessä näkyy myös, että vaihde on käynyt melko lämpimänä, mitä luultavimmin johtuen juuri kytkimen laahaamisesta vapaa- ja taaksepäin-vaihteilla käytettäessä.
 
 Seuraavaksi huomenna puhelu Finnparts Oy:lle, josta ystävällisesti aiemmin lupailtiin varaosia sekä tietämystä tälle vaihteelle. Luultavasti seuraavaksi edessä on vetolevyn irroitus moottorista ja koko vaihteiston “yläkerran” purku, jotta vetoakseleihin pääsee käsiksi. Myös sopivien hydrauliletkujen metsästys on aloitettava. Eli jatkoa seuraa varmasti.
-
-<div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://hinaaja.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
