@@ -78,5 +78,5 @@ paginate_path: "/blog/page:num/"
 paginate: 10
 
 comments:
-  provider: qusdis
-  qusdis_app_id: 4f5fc1de-9ebd-47bf-a6d9-1fea07785471
+  provider: cusdis
+  cusdis_app_id: 4f5fc1de-9ebd-47bf-a6d9-1fea07785471
